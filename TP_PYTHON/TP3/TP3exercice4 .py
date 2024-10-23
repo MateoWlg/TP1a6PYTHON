@@ -16,10 +16,9 @@ def calcul_factorielle_iterative_while(n):
         i += 1
     return factorielle
 
-# Demander à l'utilisateur de saisir un entier
+
 n = int(input("Entrez un entier pour calculer sa factorielle : "))
 
-# Demander à l'utilisateur de choisir la boucle
 choix_boucle = input("Choisissez la boucle ('for' ou 'while') : ")
 
 if choix_boucle == 'for':
