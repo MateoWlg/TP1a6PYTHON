@@ -8,9 +8,9 @@ anglais = 10
        
 info = 11
        
-promotion = 2023
+promotion = 2024
        
-promotion = 2023
+promotion = 2024
        
 var = (14 +10 +11) /3
 
