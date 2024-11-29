@@ -6,4 +6,3 @@ def most_frequent(lst):
 
 liste_exemple = [2, 7, 5, 6, 7, 1, 6, 2, 1, 7]
 most_frequent(liste_exemple)
-
