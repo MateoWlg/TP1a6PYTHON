@@ -31,4 +31,3 @@ binome = {
 print("\nLes étudiants formant le binôme sont :")
 for identifiant, info in binome.items():
     print(f"- L'étudiant {info['name']} {info['firstname']} du groupe {info['group']}")
-
