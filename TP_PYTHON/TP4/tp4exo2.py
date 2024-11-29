@@ -20,4 +20,3 @@ print("Numéro de l’Etudiant | note | ecart a la moyenne")
 for i, note in enumerate(notes):
     ecart = note - moyenne
     print(f"{i} | {note} | {ecart:.2f}")
-
