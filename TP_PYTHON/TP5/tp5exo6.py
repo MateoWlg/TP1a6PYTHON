@@ -1,4 +1,4 @@
-fdef calculer_taille_chaine(chaine):
+def calculer_taille_chaine(chaine):
     taille = 0
     for caractere in chaine:
         if caractere == '\0':  
