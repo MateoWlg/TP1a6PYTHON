@@ -1,4 +1,4 @@
-fdef ajouter_elt(lst, elt):
+def ajouter_elt(lst, elt):
     lst.append(elt)
     return lst
 
