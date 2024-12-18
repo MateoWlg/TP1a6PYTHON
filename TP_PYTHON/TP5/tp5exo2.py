@@ -1,4 +1,4 @@
-def saisie_notes_coefficients():d
+def saisie_notes_coefficients():
     notes = []
     coefficients = []
 
