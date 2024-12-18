@@ -1,4 +1,4 @@
-def nettoyer_chaine(chaine):f
+def nettoyer_chaine(chaine):
     chaine_epuree = ''.join(c.lower() for c in chaine if c.isalpha())
     return chaine_epuree
 
