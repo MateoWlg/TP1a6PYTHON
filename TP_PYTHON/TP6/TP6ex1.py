@@ -1,4 +1,4 @@
-L1 = [0] * 3
+fL1 = [0] * 3
 print(f"Liste : {L1}, Type : {type(L1)}, Identifiant : {id(L1)}")
 
 for elem in L1:
