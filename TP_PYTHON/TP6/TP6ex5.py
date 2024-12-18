@@ -1,4 +1,4 @@
-fimport unicodedata
+import unicodedata
 
 def nettoyer_texte(texte):
     texte_propre = ''.join(c.lower() for c in texte if c.isalnum())
