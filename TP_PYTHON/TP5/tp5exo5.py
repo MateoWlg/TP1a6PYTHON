@@ -1,4 +1,4 @@
-fdef calculer_salaire(nombre_heures, salaire_horaire):
+def calculer_salaire(nombre_heures, salaire_horaire):
     heures_normales = min(nombre_heures, 160)
     heures_majorees_25 = max(min(nombre_heures - 160, 40), 0)
     heures_majorees_50 = max(nombre_heures - 200, 0)
