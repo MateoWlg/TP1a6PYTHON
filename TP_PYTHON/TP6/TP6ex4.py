@@ -1,4 +1,4 @@
-fimport random
+import random
 
 def generer(nbr, vmin, vmax):
     return [random.randint(vmin, vmax) for _ in range(nbr)]
