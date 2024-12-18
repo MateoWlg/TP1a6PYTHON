@@ -1,5 +1,5 @@
 def decomposer_somme(somme):
-    billet_100 = somme // 100f
+    billet_100 = somme // 100
     reste = somme % 100
 
     billet_50 = reste // 50
