@@ -1,4 +1,4 @@
-import os.path
+fimport os.path
 from datetime import datetime
 
 def afficher_taille_et_date_modification(fichier):
