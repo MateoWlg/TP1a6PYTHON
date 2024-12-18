@@ -1,4 +1,4 @@
-def saisie_personne():
+def saisie_personne():f
     nom = input("Entrez le nom : ")
     prenom = input("Entrez le prénom : ")
     return nom, prenom
